@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haoyu(Andy) Guan
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Haoyu Guan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Mathematics Finance
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Boston University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "To create, to experience."
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep learning algorithm
+- Mathematics Finance
+- Portfolio management
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Master in Mathematics Finance
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2019
+  - course: BSc in Computational Mathematics
+    institution: Xiamen University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/andy97guan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "andy97guan@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +67,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently pursuing my Master’s degree in Mathematical Finance at Boston University. Personally I am a diligent, proactive, motivated, and result-oriented person, who enjoys working in a fast-paced and team-oriented environment. I am actively looking for a quantitative analyst and data analyst internship in the United States currently.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Through my graduate and undergraduate studies, I have familiarized myself with SQL, R, Python, MATLAB, and Tableau. I am also quite proficient in time series analysis, regression analysis, simulation analysis, data visualization, and machine learning, etc.
+
+Besides my solid academic background in Computational and Applied Mathematics, I have greatly sharpened my professional skills through my diverse internship experience. As a quantitative intern, I gained rich experience in quantitative strategy planning, back-testing system, and statistical modeling. Moreover, as a corporate debt intern, I also strengthened myself in data visualization, advanced analytic trading, and debt/equity market processing.
+
+I am willing to improve myself by doing some projects in the finance and data fields to accumulate enough experience. My bilingual experience enables me to work in a cross-cultural environment. I can be reached either through this profile, by phone at (857) 313-9378 or by email at andy97guan@gmail.com. Please check the additional qualifications below.
+
