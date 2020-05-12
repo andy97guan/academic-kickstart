@@ -35,6 +35,8 @@ subtitle = ""
   name = "Tools"
   description = "Git, Jupyter notebook, VBA<br>Keras, Pytorch"
   
+  
+  
 [[feature]]
   icon = "dollar-sign"
   icon_pack = "fas"
