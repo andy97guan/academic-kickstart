@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, R, SQL<br>Matlab"
+  description = "Python, R, SQL, Matlab"
   
  
 [[feature]]
@@ -33,8 +33,12 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Git, Jupyter notebook, VBA"
+  description = "Git, Jupyter notebook, VBA<br>Keras, Pytorch"
   
-  
+[[feature]]
+  icon = "dollar-sign"
+  icon_pack = "fas"
+  name = "Finance"
+  description = "Portfolio Management, Asset Prcing<br>Fixed Income, Fintech"
 
 +++
