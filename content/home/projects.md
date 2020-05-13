@@ -25,11 +25,11 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "machine learning"
+    name = "Machine Learning"
     tag = "ML"
 
   [[content.filter_button]]
-    name = "Portfolio"
+    name = "Portfolio Management"
     tag = "Portfolio Management"
   
   #[[content.filter_button]]
