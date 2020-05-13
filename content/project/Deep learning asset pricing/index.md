@@ -13,6 +13,7 @@ summary = """
 models in Predictive and variation explaining ability<br>
  2). Our GAN neural network is constructed using the idea of SDF and GMM method<br>
  3). Discovered annual out of sample Sharpe Ratio of GAN is around 2.6 and twice as high as with the simple forecasting approach FFN
+ 
  """
 
 # Tags: can be used for filtering projects.
