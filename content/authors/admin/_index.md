@@ -25,14 +25,7 @@ interests:
 - Mathematics Finance
 - Portfolio management
 
-education:
-  courses:
-  - course: Master in Mathematics Finance
-    institution: Stanford University
-    year: 2019
-  - course: BSc in Computational Mathematics
-    institution: Xiamen University
-    year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
