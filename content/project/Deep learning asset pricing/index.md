@@ -10,7 +10,7 @@ title = "Deep Learning Asset Pricing"
 summary = """
 
  1). Developed 3 different deep learning networks (FFN\RNN\GAN) by PyTorch and compared the performance of differnet models in Predictive and variation explaining ability<br>
- 2). Our GAN neural network is constructed using the idea of SDF and GMM method<br>
+ 2). Our GAN neural network is constructed using the idea of SDF and GMM method
  
  """
 
