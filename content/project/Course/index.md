@@ -10,7 +10,7 @@ title = "Black-Litterman Portfolios with Machine Learning derived Views"
 summary = """
  Design and implement two online courses on the EduCoder platform, which by April 2019 has nearly 30,000 registered users from 605 universities:<br>
  1). Adjusted and modified the Black-Litterman model, applied multiple machine learning classifiers (Logistic Regression, SVM,
-Naïve Bayes, Ensemble methods) to generate the market views of investors
+Naïve Bayes, Ensemble methods) to generate the market views of investors<br>
  2). Model achieved 70% accuracy and got 4% annual excess return during back testing process which is not worse than MeanVariance model.
  
  """
