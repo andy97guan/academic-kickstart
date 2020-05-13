@@ -37,7 +37,7 @@ subtitle = ""
   #  tag = "Android"
   
   [[content.filter_button]]
-    name = "Data
+    name = "Data"
     tag = "Data"
   
   #[[content.filter_button]]
