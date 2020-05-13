@@ -17,7 +17,7 @@ Naïve Bayes, Ensemble methods) to generate the market views of investors<br>
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["School","Portfolios","Machine Learning"]
+tags = ["School","Portfolio Management","ML"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/andy97guan/Black-Litterman-Portfolios-with-Machine-Learning-derived-Views"
