@@ -25,20 +25,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "AI"
-    tag = "AI"
+    name = "machine learning"
+    tag = "ML"
 
   [[content.filter_button]]
-    name = "iOS"
-    tag = "iOS"
+    name = "Portfolio"
+    tag = "Portfolio Management"
   
   #[[content.filter_button]]
   #  name = "Android"
   #  tag = "Android"
   
   [[content.filter_button]]
-    name = "Web"
-    tag = "Web"
+    name = "Data
+    tag = "Data"
   
   #[[content.filter_button]]
   #  name = "Internship"
