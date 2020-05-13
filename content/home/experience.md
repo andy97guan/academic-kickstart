@@ -31,16 +31,31 @@ date_format = "Jan 2006"
 income market, such as ABS, corporate bonds, CMBS.
   * Analyzed and developed a model on interest rate and credit ratings via regression and classification models by Logistic
 Regression to identify current trends of Chinese fixed-income products acted in R and Excel and accuracy is about 60%
-  * Deploying
+  * Devised various data visualizations via box plot, heat map and correlation matrix for CSi 300 index dataset for basic EDA and
+identifying correlation analysis. Predicted future price using Fama-Macbeth regression with 95% significance
+  * Saved 70% of time on data analysis by establishing macros using Excel VBA to automate financial data processing and
+statistical analysis.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Quantitative Intern"
+  company = "Huaxi Futures"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chengdu, China"
+  date_start = "2018-08-01"
+  date_end = "2018-09-01"
+  description = """
+    Responsibilities include:
+  
+  * Participated in creating fixed income products. Researched and analyzed data of various financial instruments in fixed
+income market, such as ABS, corporate bonds, CMBS.
+  * Analyzed and developed a model on interest rate and credit ratings via regression and classification models by Logistic
+Regression to identify current trends of Chinese fixed-income products acted in R and Excel and accuracy is about 60%
+  * Devised various data visualizations via box plot, heat map and correlation matrix for CSi 300 index dataset for basic EDA and
+identifying correlation analysis. Predicted future price using Fama-Macbeth regression with 95% significance
+  * Saved 70% of time on data analysis by establishing macros using Excel VBA to automate financial data processing and
+statistical analysis.
+  
+  """
 
 +++
