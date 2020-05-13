@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2017-07-01"
   description = """
-  Responsibilities include:
+  
   
   * Participated in creating fixed income products. Researched and analyzed data of various financial instruments in fixed
 income market, such as ABS, corporate bonds, CMBS.
@@ -45,7 +45,7 @@ statistical analysis.
   date_start = "2018-08-01"
   date_end = "2018-09-01"
   description = """
-    Responsibilities include:
+  
   
   * Participated in creating fixed income products. Researched and analyzed data of various financial instruments in fixed
 income market, such as ABS, corporate bonds, CMBS.
