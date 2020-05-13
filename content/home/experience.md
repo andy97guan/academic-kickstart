@@ -18,17 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Fixed Income intern"
+  company = "Shenzhen Stock Exchange"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Shenzhan, China"
+  date_start = "2017-06-01"
+  date_end = "2017-07-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
+  * Participated in creating fixed income products. Researched and analyzed data of various financial instruments in fixed
+income market, such as ABS, corporate bonds, CMBS.
+  * Analyzed and developed a model on interest rate and credit ratings via regression and classification models by Logistic
+Regression to identify current trends of Chinese fixed-income products acted in R and Excel and accuracy is about 60%
   * Deploying
   """
 
